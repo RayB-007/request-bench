@@ -48,4 +48,4 @@ Tests create real local HTTP servers to check concurrency limits, error accounti
 
 ## Portfolio
 
-More projects and background: [rayansh.dev](https://rayansh.dev/projects/).
+More projects and background: [rayansh.dev](https://rayansh.dev/).
