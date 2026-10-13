@@ -1,0 +1,1 @@
+{"name":"request-bench","version":"0.1.0","private":true,"type":"module","description":"A small HTTP latency benchmark with bounded concurrency and per-request deadlines.","engines":{"node":">=20"},"scripts":{"test":"node --test tests/*.test.mjs","demo":"node examples/server.mjs"}}
